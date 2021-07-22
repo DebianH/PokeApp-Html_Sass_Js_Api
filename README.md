@@ -7,5 +7,5 @@ Esta aplicación fue creada con las siguientes tecnologias:
 [*] Google Fonts
 [*] Api pública de Pokemon
 <p align="center">
-  <img src="/images/pokemos1" width="150" title="hover text">
+  <img src="/images/pokemos1.jpg" width="150" title="hover text">
 </p>
