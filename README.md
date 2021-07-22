@@ -6,6 +6,6 @@ Esta aplicación fue creada con las siguientes tecnologias:
 [*] Fontaweson
 [*] Google Fonts
 [*] Api pública de Pokemon
-<p align="center">
-  <img src="/images/pokemos1.jpg" width="150" title="hover text">
-</p>
+![Image text](https://github.com/DebianH/PokeApp-Html_Sass_Js_Api/blob/master/images/pokemos1.JPG)
+
+
